@@ -1,0 +1,22 @@
+<script>
+	let name = 'resume';
+</script>
+
+<h1>Hello {name}!</h1>
+<p>
+	Essec Business School
+Master in Management
+Cergy, France
+Since August 2022
+KE CHEN
+b00791130@essec.edu / 06 73 07 81 17 In search of Apprenticeship / Internship
+  (Advanced Excel, Anthropologie des marques du luxe, Purchasing and Procurement, general IT strategy courses...)
+Binghamton University, State University of New York
+Bachelor of Arts in English Literature
+Cumulative GPA: 3.65/4.00
+</p>
+<style>
+	p {
+		color: darkred
+	}
+</style>
